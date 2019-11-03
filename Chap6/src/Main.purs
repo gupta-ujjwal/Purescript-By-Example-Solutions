@@ -5,8 +5,8 @@ import Data.Picture
 import Data.Array
 -- EX 1 from chapter 6
 
--- instance showShape :: Show Shape where 
---   show s = showShape s
+instance showShape :: Show Shape where 
+  show s = showShape s
 
 -- Ex2 from chapter 6
 
